@@ -6,15 +6,19 @@ The Open Parking and Camera Violations data set consists of more than 62 million
 
 
 +-- Dockerfile
+
 +-- requirements.txt
+
 +-- src/
 +-- +-- main.py
+
 +-- assets/
 +-- +-- kibana_visualization1.png
 +-- +-- kibana_visualization2.png
 +-- +-- kibana_visualization3.png
 +-- +-- kibana_visualization4.png
 +-- +-- kibana_visualization5.png
+
 +-- README
 
 ## How to build and the docker image
