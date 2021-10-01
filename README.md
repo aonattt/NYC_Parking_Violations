@@ -38,5 +38,7 @@ docker run -v ${PWD}:/app -e DATASET_ID="nc67-uf89" -e APP_TOKEN=“XXX” -e ES
 ## Some insights about parking violations happening
 
 *School zone speed violation is the most common violation.
-*Manhattan has the most parking violations compared to other areas.
+
+*Manhattan has the most parking violations compared to other neighborhoods.
+
 *The most common fine amount is $115. 
