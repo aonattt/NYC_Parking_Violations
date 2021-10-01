@@ -4,7 +4,7 @@ The Open Parking and Camera Violations data set consists of more than 62 million
 
 ## Folder Structure
 
-project01/
+
 +-- Dockerfile
 +-- requirements.txt
 +-- src/
